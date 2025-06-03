@@ -38,7 +38,7 @@
 
 ```
  カメラ + Raspberry Pi 5  ─┐        ┌─ Control Center (Cloud)
-  (Edgeノード)               ├──VPN──┤  • API / DB / 可視化
+  (Edgeノード)             ├──VPN──┤  • API / DB / 可視化
  カメラ + Raspberry Pi 5  ─┘        └─ 信号制御器 (NTCIP)
 ```
 
